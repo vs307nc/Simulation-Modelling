@@ -1,3 +1,4 @@
+//Vaibhav Swami 1/19/FET/BCS/040
 arrival=[0,1,3,4,6,7]           //arrival time of processes
 service_time=[3,2,4,7,5,6]      //service time for processes
 finishing_time=[0,0,0,0,0,0]    //finnishing time of processes 
